@@ -1,8 +1,12 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const cors = require('cors');  // Importer le package CORS
 const app = express();
 const port = process.env.PORT || 3000; // Render choisira automatiquement le port
+
+// Utiliser CORS pour autoriser toutes les origines
+app.use(cors());  // Cela permet à toutes les origines d'accéder à ton API
 
 // Middleware pour indiquer que l'on va envoyer du JSON
 app.use(express.json());
