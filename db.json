@@ -1,0 +1,304 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "name": "Apple Watch Series 8",
+      "marque": "Apple",
+      "short_description": "Une montre connectée premium avec écran toujours allumé.",
+      "full_description": "Apple Watch Series 8 offre un écran OLED toujours allumé, des capteurs avancés pour suivre la santé et la condition physique, et une intégration fluide avec iPhone.",
+      "color": "Noir",
+      "price": 399.99,
+      "stock": 25,
+      "images": [
+        "https://uno.ma/pub/media/catalog/product/cache/af8d7fd2c4634f9c922fba76a4a30c04/l/d/ld0005977093.jpeg",
+        "https://uno.ma/pub/media/catalog/product/cache/af8d7fd2c4634f9c922fba76a4a30c04/l/d/ld0005977094.jpeg",
+        "https://uno.ma/pub/media/catalog/product/cache/af8d7fd2c4634f9c922fba76a4a30c04/l/d/ld0005977324.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 5",
+      "marque": "Samsung",
+      "short_description": "Montre élégante avec suivi de la santé et de l'activité.",
+      "full_description": "La Galaxy Watch 5 de Samsung offre un suivi du sommeil, de l'activité physique, et une autonomie prolongée avec un design moderne et un écran AMOLED.",
+      "color": "Noir",
+      "price": 279.99,
+      "stock": 30,
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/n_africa/2208/gallery/n-africa-galaxy-watch5-pro-sm-r920nzkamea-533195499?$592_472_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/n_africa/2208/gallery/n-africa-galaxy-watch5-pro-sm-r920nzkamea-533195498?$592_472_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/n_africa/2208/gallery/n-africa-galaxy-watch5-pro-sm-r920nzkamea-533195495?$592_472_PNG$"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Garmin Forerunner 945",
+      "marque": "Garmin",
+      "short_description": "Montre GPS avec suivi complet des activités sportives.",
+      "full_description": "La Forerunner 945 est une montre GPS de sport avancée avec des fonctions de suivi de la condition physique, de la fréquence cardiaque et un GPS intégré.",
+      "color": "Noir",
+      "price": 599.99,
+      "stock": 15,
+      "images": [
+        "https://kver.ma/3992-home_default/forerunner-945.jpg",
+        "https://kver.ma/4006-home_default/forerunner-945.jpg",
+        "https://kver.ma/3996-home_default/forerunner-945.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Versa 4",
+      "marque": "Fitbit",
+      "short_description": "Montre connectée pour le suivi de la santé et de la condition physique.",
+      "full_description": "La Fitbit Versa 4 est une montre connectée abordable avec des fonctionnalités de suivi du sommeil, des notifications et un suivi détaillé des exercices.",
+      "color": "Noir",
+      "price": 229.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/61CZSoSnVPL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/711swAUsovL._AC_SX522_.jpg",
+        "https://static.fnac-static.com/multimedia/Images/FR/MDM/40/04/33/20120640/1540-1/tsp20241028090845/Montre-connectee-Fitbit-Versa-4-Noir-inclus-6-mois-a-Fitbit-Premium.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 3",
+      "marque": "Huawei",
+      "short_description": "Montre de sport élégante avec une longue autonomie.",
+      "full_description": "La Huawei Watch GT 3 combine performance et style avec un écran AMOLED, une autonomie de 14 jours et un suivi complet des activités physiques.",
+      "color": "Noir",
+      "price": 249.99,
+      "stock": 35,
+      "images": [
+        "https://taiga.ma/cdn/shop/products/Brown-leather-1.png?v=1689330892",
+        "https://taiga.ma/cdn/shop/products/Brown-leather-2.png?v=1689330892",
+        "https://taiga.ma/cdn/shop/products/Brown-leather-3.png?v=1689330892"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Amazfit GTR 3 Pro",
+      "marque": "Amazfit",
+      "short_description": "Montre connectée avec écran AMOLED et GPS intégré.",
+      "full_description": "Amazfit GTR 3 Pro offre une conception élégante avec un grand écran AMOLED, une autonomie longue durée, et un suivi de la santé et du sport avancé.",
+      "color": "Noir",
+      "price": 199.99,
+      "stock": 20,
+      "images": [
+        "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/169075/1.jpg?2606",
+        "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/169075/2.jpg?2621",
+        "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/169075/3.jpg?2630"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Fossil Gen 6",
+      "marque": "Fossil",
+      "short_description": "Montre hybride avec Google Wear OS et suivi de la santé.",
+      "full_description": "La Fossil Gen 6 offre un mélange de style classique et de technologie moderne, avec un processeur rapide, des notifications intelligentes et un suivi d'activité.",
+      "color": "Noir",
+      "price": 279.99,
+      "stock": 22,
+      "images": [
+        "https://m.media-amazon.com/images/I/71DP0v5VqhL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71mvonp2sjL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61RhoIctWzL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Xiaomi Mi Watch",
+      "marque": "Xiaomi",
+      "short_description": "Montre avec suivi des activités et notifications intelligentes.",
+      "full_description": "La Xiaomi Mi Watch propose un design élégant avec un suivi complet de la condition physique, des notifications intelligentes et une autonomie de 9 jours.",
+      "color": "Noir",
+      "price": 119.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/51xAFog3WmL._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/415JYK2XQvL._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/51QweOeZpwL._AC_SX522_.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Oppo Watch",
+      "marque": "Oppo",
+      "short_description": "Montre avec écran AMOLED et suivi des activités physiques.",
+      "full_description": "L'Oppo Watch combine un écran AMOLED incurvé et un design élégant, avec un suivi complet des activités physiques et un système d'exploitation Wear OS.",
+      "color": "Noir",
+      "price": 249.99,
+      "stock": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/61ea3qASP4L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61OYSZUpYsL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61SMmXVuqdL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Suunto 7",
+      "marque": "Suunto",
+      "short_description": "Montre GPS pour sportifs avec écran AMOLED et suivi des activités.",
+      "full_description": "La Suunto 7 est une montre GPS ultra-résistante, avec un écran AMOLED, un suivi sportif avancé et des fonctionnalités de navigation en extérieur.",
+      "color": "Noir",
+      "price": 399.99,
+      "stock": 14,
+      "images": [
+        "https://www.suunto.com/globalassets/productimages/suunto-7/matte-black-titanium/ss050568000-suunto-7-matte-black-titanium-front-apps-menu-01.png?height=900&format=jpg",
+        "https://www.suunto.com/globalassets/productimages/suunto-7/matte-black-titanium/ss050568000-suunto-7-matte-black-titanium-expressive-exercise-running-city-01.png?height=900&format=jpg",
+        "https://www.suunto.com/globalassets/productimages/suunto-7/matte-black-titanium/ss050568000-suunto-7-matte-black-titanium-back-perspective-01.png?height=900&format=jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "TicWatch Pro 3",
+      "marque": "TicWatch",
+      "short_description": "Montre connectée avec double écran et Google Wear OS.",
+      "full_description": "La TicWatch Pro 3 offre une performance exceptionnelle avec son processeur Snapdragon et son écran AMOLED/Low Power Display pour une autonomie prolongée.",
+      "color": "Noir",
+      "price": 299.99,
+      "stock": 26,
+      "images": [
+        "https://growth-cdn.ticwear.com/images/img_5620485188209212514.png",
+        "https://growth-cdn.ticwear.com/images/img_2849771144066717930.png",
+        "https://growth-cdn.ticwear.com/images/img_2038641115300228112.png"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Withings Steel HR",
+      "marque": "Withings",
+      "short_description": "Montre hybride avec suivi de la fréquence cardiaque et de l'activité.",
+      "full_description": "La Withings Steel HR est une montre hybride qui combine l'élégance d'une montre analogique avec les fonctions de suivi d'activité et de fréquence cardiaque.",
+      "color": "Noir",
+      "price": 179.99,
+      "stock": 28,
+      "images": [
+        "https://m.media-amazon.com/images/I/71HjeUNjOIL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71QKCMFZzsL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/614GfbzC6aL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Apple Watch SE",
+      "marque": "Apple",
+      "short_description": "Une Apple Watch abordable avec toutes les fonctions essentielles.",
+      "full_description": "L'Apple Watch SE offre des fonctionnalités essentielles comme le suivi des activités, des notifications intelligentes, et un design moderne à un prix plus abordable.",
+      "color": "Noir",
+      "price": 279.99,
+      "stock": 32,
+      "images": [
+        "https://uno.ma/pub/media/catalog/product/cache/af8d7fd2c4634f9c922fba76a4a30c04/l/d/ld0005977629_2.jpeg",
+        "https://uno.ma/pub/media/catalog/product/cache/af8d7fd2c4634f9c922fba76a4a30c04/l/d/ld0005977630_2.jpeg",
+        "https://uno.ma/pub/media/catalog/product/cache/a568d8357d8cb974ae9fd3a01ae20b42/l/d/ld0005977629_2.jpeg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Samsung Galaxy Watch 4",
+      "marque": "Samsung",
+      "short_description": "Montre avec Google Wear OS et une multitude de fonctionnalités santé.",
+      "full_description": "La Galaxy Watch 4 combine le système Wear OS et les technologies Samsung pour offrir une expérience fluide avec des options avancées pour le suivi de la santé et du bien-être.",
+      "color": "Noir",
+      "price": 249.99,
+      "stock": 40,
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/n_africa/sm-r960nzkhmea/gallery/n-africa-galaxy-watch6-classic-r965-470076-sm-r960nzkhmea-537732824?$592_472_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/n_africa/sm-r960nzkhmea/gallery/n-africa-galaxy-watch6-classic-r965-470076-sm-r960nzkhmea-537732828?$592_472_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/n_africa/sm-r960nzkhmea/gallery/n-africa-galaxy-watch6-classic-r965-470076-sm-r960nzkhmea-537732768?$592_472_PNG$"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Garmin Venu 2",
+      "marque": "Garmin",
+      "short_description": "Montre de sport GPS avec suivi de santé complet.",
+      "full_description": "La Garmin Venu 2 offre un suivi complet de la condition physique, y compris le suivi du sommeil, de l'hydratation et de la fréquence cardiaque, avec un écran AMOLED lumineux.",
+      "color": "Noir",
+      "price": 399.99,
+      "stock": 30,
+      "images": [
+        "https://kver.ma/1572-home_default/venu-2-grise.jpg",
+        "https://kver.ma/1577-home_default/venu-2-grise.jpg",
+        "https://kver.ma/1578-home_default/venu-2-grise.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Fitbit Sense 2",
+      "marque": "Fitbit",
+      "short_description": "Montre connectée avec suivi de la santé et du stress.",
+      "full_description": "La Fitbit Sense 2 propose des fonctionnalités avancées pour le suivi de la santé, notamment la gestion du stress, le suivi de la fréquence cardiaque et une analyse de la peau.",
+      "color": "Noir",
+      "price": 299.99,
+      "stock": 22,
+      "images": [
+        "https://media.4rgos.it/i/Argos/1153705_R_Z001A?w=1500&h=880&qlt=70&fmt=webp",
+        "https://media.4rgos.it/i/Argos/1153705_R_Z002A?w=1500&h=880&qlt=70&fmt=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6514/6514034cv1d.jpg;maxHeight=2000;maxWidth=2000;format=webp"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Amazfit Bip U Pro",
+      "marque": "Amazfit",
+      "short_description": "Montre intelligente légère avec GPS intégré.",
+      "full_description": "La Amazfit Bip U Pro est une montre abordable avec GPS intégré, suivi de l'activité physique et un écran couleur de haute qualité.",
+      "color": "Noir",
+      "price": 69.99,
+      "stock": 60,
+      "images": [
+        "https://www.etceinfo.ma/web/image/product.image/1832/image_1024/Amazfit%20Bip%20U?unique=5c3e738",
+        "https://www.etceinfo.ma/web/image/product.product/1473/image_1024/%5BBIP%20U%20NOIR%5D%20Amazfit%20Bip%20U%20%28Noir%29?unique=5c3e738",
+        "https://www.etceinfo.ma/web/image/product.image/1832/image_1024/Amazfit%20Bip%20U?unique=5c3e738"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Fossil Hybrid HR",
+      "marque": "Fossil",
+      "short_description": "Montre hybride avec cadran analogique et fonctionnalités connectées.",
+      "full_description": "La Fossil Hybrid HR combine un design classique à un suivi des activités connectées, avec une batterie longue durée et des notifications intelligentes.",
+      "color": "Noir",
+      "price": 199.99,
+      "stock": 18,
+      "images": [
+        "https://fossil.scene7.com/is/image/FossilPartners/FTW7056_main?$sfcc_fos_hi-res$",
+        "https://fossil.scene7.com/is/image/FossilPartners/FTW7056_2?$sfcc_fos_hi-res$",
+        "https://fossil.scene7.com/is/image/FossilPartners/FTW7056_1?$sfcc_fos_hi-res$"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Xiaomi Redmi Watch 2",
+      "marque": "Xiaomi",
+      "short_description": "Montre de sport avec écran AMOLED et suivi des activités.",
+      "full_description": "La Xiaomi Redmi Watch 2 offre un excellent rapport qualité-prix avec un écran AMOLED, un suivi d'activités complet, et une autonomie de 14 jours.",
+      "color": "Noir",
+      "price": 79.99,
+      "stock": 50,
+      "images": [
+        "https://gtelstore.ma/wp-content/uploads/2023/01/61pSqh0YgL._AC_SL1500_-1.png",
+        "https://gtelstore.ma/wp-content/uploads/2023/01/71qARxarUxL._AC_SL1500_-1.png",
+        "https://gtelstore.ma/wp-content/uploads/2023/01/61SNQW5vy8L._SL1500_-1.png"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Oppo Watch Free",
+      "marque": "Oppo",
+      "short_description": "Montre connectée légère avec suivi des activités et de la santé.",
+      "full_description": "L'Oppo Watch Free propose une expérience connectée simple avec des fonctionnalités de suivi de la santé, des exercices, et une autonomie longue durée.",
+      "color": "Noir",
+      "price": 129.99,
+      "stock": 45,
+      "images": [
+        "https://www.cdiscount.com/pdt2/1/2/5/1/700x700/opp6944284678125/rw/oppo-band-noir-montre-connectee.jpg",
+        "https://www.cdiscount.com/pdt2/1/2/5/4/700x700/opp6944284678125/rw/oppo-band-noir-montre-connectee.jpg",
+        "https://www.cdiscount.com/pdt2/1/2/5/2/700x700/opp6944284678125/rw/oppo-band-noir-montre-connectee.jpg"
+      ]
+    }
+  ]
+}
